@@ -4,12 +4,12 @@ The **DweshaMukt** project is integrated with **Telegram** through a series of s
 
 | Bot Name          | Description                              | Watch in Action |
 |-------------------|------------------------------------------|-----------------|
-| **Haspe Text**    | Processes text input.                    | [![Watch Haspe Text Bot](https://img.shields.io/badge/Watch-Haspe%20Text%20Bot-white?style=for-the-badge&logo=YouTube)](https://youtu.be/GTeI_L9EeBM) |
-| **Haspe Audio**   | Processes audio input.                   | [![Watch Haspe Audio Bot](https://img.shields.io/badge/Watch-Haspe%20Audio%20Bot-magenta?style=for-the-badge&logo=YouTube)](https://youtu.be/mvFZ5Yckq28) |
-| **Haspe Image**   | Processes image input.                   | [![Watch Haspe Image Bot](https://img.shields.io/badge/Watch-Haspe%20Image%20Bot-indigo?style=for-the-badge&logo=YouTube)](https://youtu.be/56sKWib-QTU) |
-| **Haspe GIF**     | Processes GIF input.                     | [![Watch Haspe GIF Bot](https://img.shields.io/badge/Watch-Haspe%20Gif%20Bot-gold?style=for-the-badge&logo=YouTube)](https://youtu.be/p0YH30J_Dgk) |
-| **Haspe Video**   | Processes video input.                   | [![Watch Haspe Video Bot](https://img.shields.io/badge/Watch-Haspe%20Video%20Bot-blue?style=for-the-badge&logo=YouTube)](https://youtu.be/4y4jWDYZOoA) |
-| **Haspe YouTube** | Processes YouTube live comments.         | [![Watch Haspe YouTube Bot](https://img.shields.io/badge/Watch-Haspe%20YouTube%20Bot-crimson?style=for-the-badge&logo=YouTube)](https://youtu.be/75ToOIsmgdg) |
+| **Haspe Text**    | Processes text input.                    | [![Watch Haspe Text Bot](https://img.shields.io/badge/Watch-Haspe%20Text%20Bot-white?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/15Fzb9yz3sgqt2pynk1NeRJ7qeXQiYALZ/view?usp=sharing) |
+| **Haspe Audio**   | Processes audio input.                   | [![Watch Haspe Audio Bot](https://img.shields.io/badge/Watch-Haspe%20Audio%20Bot-magenta?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/13jM8Uc7FJPy7pjQwF4kUOhFasmbiiHz6/view?usp=sharing) |
+| **Haspe Image**   | Processes image input.                   | [![Watch Haspe Image Bot](https://img.shields.io/badge/Watch-Haspe%20Image%20Bot-indigo?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/17uaC-yYRBFHkI1r2cnQ9pwrtmwlGuGlf/view?usp=sharing) |
+| **Haspe GIF**     | Processes GIF input.                     | [![Watch Haspe GIF Bot](https://img.shields.io/badge/Watch-Haspe%20GIF%20Bot-gold?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1MrCXGwq3_FH9ek_ouR7_0wNSC_GPU8-e/view?usp=sharing) |
+| **Haspe Video**   | Processes video input.                   | [![Watch Haspe Video Bot](https://img.shields.io/badge/Watch-Haspe%20Video%20Bot-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1mMaORjkkJyi7LyE6O1N_Z-xPhSL-BzXy/view?usp=sharing) |
+| **Haspe YouTube** | Processes YouTube live comments.         | [![Watch Haspe YouTube Bot](https://img.shields.io/badge/Watch-Haspe%20YouTube%20Bot-crimson?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1g-AKNtMI1AXyuP2FNh_Wwjt7VYSkO-I6/view?usp=sharing) |
 
 Each bot seamlessly interacts with the backend, delivering real-time classification results to users. Whether you're analyzing text, multimedia, or live YouTube comments, these bots ensure a versatile and accessible experience for hate speech detection.
 

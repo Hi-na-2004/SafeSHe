@@ -1,5 +1,19 @@
 # ![DweshaMukt](https://github.com/StudiYash/DweshaMukt/blob/main/DweshaMukt%20Logo.png)
 
+<p align="center">
+
+  <!-- ⭐ GitHub Stars -->
+  <a href="https://github.com/StudiYash/DweshaMukt/stargazers">
+    <img src="https://img.shields.io/github/stars/StudiYash/DweshaMukt?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars">
+  </a>
+
+  <!-- ▶️ Official YouTube Video -->
+  <a href="https://youtu.be/kvFr5njZj3w">
+    <img src="https://img.shields.io/badge/Watch-Project%20Walkthrough-red?style=for-the-badge&logo=youtube" alt="Project Walkthrough">
+  </a>
+
+</p>
+
 ## Project Introduction 🛡️
 
 ### Abstract 
@@ -139,20 +153,27 @@ The **DweshaMukt Dataset** is a curated collection of comments carefully selecte
 <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Dataset/Hate%20and%20Non-Hate%20Spiral%20Chart.png" style="border: 2px solid black; width: 400px; height: 400px;" alt="Spiral Chart Project Dataset">
 </p>
 
-### Access the Dataset
-To ensure responsible and secure usage, access to the DweshaMukt dataset is granted upon request. Please complete the form below to submit your application. We review each request to verify alignment with our project’s objectives.
+### 📂 Access the Dataset
 
-[![Dataset Requesting Google Form](https://img.shields.io/badge/Request%20Access-Fill%20Out%20Form-purple?style=for-the-badge&logo=google)](https://forms.gle/RHNkoFQx4W94tXN37)
+The custom dataset used in the **DweshaMukt** project was created under institutional funding and is subject to strict usage and distribution policies.  
+As a result, **the dataset cannot be publicly shared or externally distributed**.
 
-*Note: Approved requests will receive an email with download instructions within 2-3 business days.*
+However, a major portion of the data was derived from the **HHSD Dataset** (Hinglish Hate Speech Dataset), created by **Mr. Prashant Kapil**, which is available upon request.
 
-### Dataset Terms of Use
-By requesting access to this dataset, you agree to the following:
-- The dataset is strictly for **non-commercial, research, or educational purposes**.
-- You will **cite the DweshaMukt project** in any publications or presentations that use this dataset.
-- Redistribution or sharing of the dataset with unauthorized parties is strictly prohibited.
+You may contact the original author for access:
 
----
+[![Contact Dataset Author](https://img.shields.io/badge/Request%20HHSD%20Dataset-Contact%20Prashant%20Kapil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prashant-kapil-20779016a)
+
+### 📜 Dataset Terms of Use (for Reference)
+
+If you plan to build upon the concepts or replicate the pipeline, please note:
+
+- The DweshaMukt dataset is **not available for external use**.  
+- For experimentation, please request the **HHSD Dataset** from its creator.  
+- Any work inspired by this project should **cite the DweshaMukt system and the HHSD dataset**.  
+- Redistribution or claiming ownership of the combined dataset is not allowed.
+
+--- 
 
 ## Project Frontend 🌐
 
@@ -276,12 +297,12 @@ The **DweshaMukt** project is integrated with **Telegram** through a series of s
 
 | Bot Name          | Description                              | Watch in Action |
 |-------------------|------------------------------------------|-----------------|
-| **Haspe Text**    | Processes text input.                    | [![Watch Haspe Text Bot](https://img.shields.io/badge/Watch-Haspe%20Text%20Bot-white?style=for-the-badge&logo=YouTube)](https://youtu.be/GTeI_L9EeBM) |
-| **Haspe Audio**   | Processes audio input.                   | [![Watch Haspe Audio Bot](https://img.shields.io/badge/Watch-Haspe%20Audio%20Bot-magenta?style=for-the-badge&logo=YouTube)](https://youtu.be/mvFZ5Yckq28) |
-| **Haspe Image**   | Processes image input.                   | [![Watch Haspe Image Bot](https://img.shields.io/badge/Watch-Haspe%20Image%20Bot-indigo?style=for-the-badge&logo=YouTube)](https://youtu.be/56sKWib-QTU) |
-| **Haspe GIF**     | Processes GIF input.                     | [![Watch Haspe GIF Bot](https://img.shields.io/badge/Watch-Haspe%20Gif%20Bot-gold?style=for-the-badge&logo=YouTube)](https://youtu.be/p0YH30J_Dgk) |
-| **Haspe Video**   | Processes video input.                   | [![Watch Haspe Video Bot](https://img.shields.io/badge/Watch-Haspe%20Video%20Bot-blue?style=for-the-badge&logo=YouTube)](https://youtu.be/4y4jWDYZOoA) |
-| **Haspe YouTube** | Processes YouTube live comments.         | [![Watch Haspe YouTube Bot](https://img.shields.io/badge/Watch-Haspe%20YouTube%20Bot-crimson?style=for-the-badge&logo=YouTube)](https://youtu.be/75ToOIsmgdg) |
+| **Haspe Text**    | Processes text input.                    | [![Watch Haspe Text Bot](https://img.shields.io/badge/Watch-Haspe%20Text%20Bot-white?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/15Fzb9yz3sgqt2pynk1NeRJ7qeXQiYALZ/view?usp=sharing) |
+| **Haspe Audio**   | Processes audio input.                   | [![Watch Haspe Audio Bot](https://img.shields.io/badge/Watch-Haspe%20Audio%20Bot-magenta?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/13jM8Uc7FJPy7pjQwF4kUOhFasmbiiHz6/view?usp=sharing) |
+| **Haspe Image**   | Processes image input.                   | [![Watch Haspe Image Bot](https://img.shields.io/badge/Watch-Haspe%20Image%20Bot-indigo?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/17uaC-yYRBFHkI1r2cnQ9pwrtmwlGuGlf/view?usp=sharing) |
+| **Haspe GIF**     | Processes GIF input.                     | [![Watch Haspe GIF Bot](https://img.shields.io/badge/Watch-Haspe%20GIF%20Bot-gold?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1MrCXGwq3_FH9ek_ouR7_0wNSC_GPU8-e/view?usp=sharing) |
+| **Haspe Video**   | Processes video input.                   | [![Watch Haspe Video Bot](https://img.shields.io/badge/Watch-Haspe%20Video%20Bot-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1mMaORjkkJyi7LyE6O1N_Z-xPhSL-BzXy/view?usp=sharing) |
+| **Haspe YouTube** | Processes YouTube live comments.         | [![Watch Haspe YouTube Bot](https://img.shields.io/badge/Watch-Haspe%20YouTube%20Bot-crimson?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1g-AKNtMI1AXyuP2FNh_Wwjt7VYSkO-I6/view?usp=sharing) |
 
 Each bot seamlessly interacts with the backend, delivering real-time classification results to users. Whether you're analyzing text, multimedia, or live YouTube comments, these bots ensure a versatile and accessible experience for hate speech detection.
 

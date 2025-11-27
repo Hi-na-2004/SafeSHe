@@ -14,17 +14,24 @@ The **DweshaMukt Dataset** is a curated collection of comments carefully selecte
 <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Dataset/Hate%20and%20Non-Hate%20Spiral%20Chart.png" style="border: 2px solid black; width: 400px; height: 400px;" alt="Spiral Chart Project Dataset">
 </p>
 
-### Access the Dataset
-To ensure responsible and secure usage, access to the DweshaMukt dataset is granted upon request. Please complete the form below to submit your application. We review each request to verify alignment with our project’s objectives.
+### 📂 Access the Dataset
 
-[![Dataset Requesting Google Form](https://img.shields.io/badge/Request%20Access-Fill%20Out%20Form-purple?style=for-the-badge&logo=google)](https://forms.gle/RHNkoFQx4W94tXN37)
+The custom dataset used in the **DweshaMukt** project was created under institutional funding and is subject to strict usage and distribution policies.  
+As a result, **the dataset cannot be publicly shared or externally distributed**.
 
-*Note: Approved requests will receive an email with download instructions within 2-3 business days.*
+However, a major portion of the data was derived from the **HHSD Dataset** (Hinglish Hate Speech Dataset), created by **Mr. Prashant Kapil**, which is available upon request.
 
-### Dataset Terms of Use
-By requesting access to this dataset, you agree to the following:
-- The dataset is strictly for **non-commercial, research, or educational purposes**.
-- You will **cite the DweshaMukt project** in any publications or presentations that use this dataset.
-- Redistribution or sharing of the dataset with unauthorized parties is strictly prohibited.
+You may contact the original author for access:
+
+[![Contact Dataset Author](https://img.shields.io/badge/Request%20HHSD%20Dataset-Contact%20Prashant%20Kapil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prashant-kapil-20779016a)
+
+### 📜 Dataset Terms of Use (for Reference)
+
+If you plan to build upon the concepts or replicate the pipeline, please note:
+
+- The DweshaMukt dataset is **not available for external use**.  
+- For experimentation, please request the **HHSD Dataset** from its creator.  
+- Any work inspired by this project should **cite the DweshaMukt system and the HHSD dataset**.  
+- Redistribution or claiming ownership of the combined dataset is not allowed.
 
 ---
